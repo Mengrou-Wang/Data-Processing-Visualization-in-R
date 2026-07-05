@@ -4,6 +4,8 @@ The purpose of this project is to inform the Minister of Natural Resources recen
 - The energy sector is Canada’s biggest net export industry from 2010 to 2017.
 - Over 90% of Canada’s energy products have been shipped to the United States in recent years.
 - The fast-growing demand for energy in the Asian market meets Canada’s need to diversify its trade.
+
+  
 3 proposed policy considerations:
 - Free trade agreements will offer Canada’s energy producers great potentials in Asia.
 - Environmental and Indigenous concerns need to be addressed.

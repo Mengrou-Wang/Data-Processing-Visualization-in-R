@@ -12,6 +12,7 @@ The purpose of this project is to inform the Minister of Natural Resources recen
 - Canada will face international competition from the Middle East, Australia, and South America.
 
 [Please click this link for the report](https://github.com/Mengrou-Wang/Data-Processing-Visualization-in-R/blob/main/Data%20Processing%20%26%20Viz%20in%20R.R)
+
 [Please click this link for the scripts](https://github.com/Mengrou-Wang/Data-Processing-Visualization-in-R/blob/main/Diversify%20partners%20for%20Canada's%20energy%20sector.pdf)
 
 

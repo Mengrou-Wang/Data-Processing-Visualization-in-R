@@ -5,6 +5,5 @@ My Contributions:
 - Identify business objectives, business questions, outline of report
 - Data cleaning and preprocessing
 - Data visualization
-- Feature engineering
-- Write the business findings and recommendation parts of the report
+- Write the findings and recommendation parts of the report
 - Notebook documentation

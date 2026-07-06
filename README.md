@@ -16,11 +16,3 @@ The purpose of this project is to inform the Minister of Natural Resources recen
 [Please click this link for the scripts](https://github.com/Mengrou-Wang/Data-Processing-Visualization-in-R/blob/main/Data%20Processing%20%26%20Viz%20in%20R.R)
 
 
-This project was originally completed as part of a team-based training program. While the final submission was submitted as a group project, the code in this repository represents my own implementation and analysis.
-
-My Contributions:
-- Outline of the report
-- Data cleaning and preprocessing
-- Data visualization
-- Write the findings and recommendation parts of the report
-- Notebook documentation

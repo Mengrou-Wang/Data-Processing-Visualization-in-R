@@ -17,6 +17,7 @@ The purpose of this project is to inform the Minister of Natural Resources recen
 
 
 This project was originally completed as part of a team-based training program. While the final submission was submitted as a group project, the code in this repository represents my own implementation and analysis.
+
 My Contributions:
 - Outline of the report
 - Data cleaning and preprocessing
